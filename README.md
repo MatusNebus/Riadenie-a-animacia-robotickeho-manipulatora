@@ -7,6 +7,9 @@ Tu je video, na ukážku ako aplikácia pracuje:
 [video z aplikácie](videoAnimacieManipulatora.mp4)
 
 Skript v Matlabe: [Matlab skript pre aplikáciu](riadenieManipulatoraAplikacia.m) (Pre správne fungovanie treba mať v Simulinku otvorenú simuláciu)
+
 Model manipulátora v Simulinku: [Model manipulátora v simulinku](zad2_sim.slx)
+
 Samotné zadanie: [Zadanie č. 2 z predmetu Robotika](RobZad2.pdf)
+
 Moja dokumentácia: [dokumentácia](zad2_dokumentacia.pdf)
