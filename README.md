@@ -4,7 +4,7 @@ Zaujímavejšie je, že som v Matlabe vytvoril aj interaktívnu aplikáciu, ktor
 
 Tu je video, na ukážku ako aplikácia pracuje:
 
-[video z aplikácie](videoAnimacieManipulatora.mp4)
+[video z aplikácie](pokus.mp4)
 
 Skript v Matlabe: [Matlab skript pre aplikáciu](riadenieManipulatoraAplikacia.m) (Pre správne fungovanie treba mať v Simulinku otvorenú simuláciu)
 
