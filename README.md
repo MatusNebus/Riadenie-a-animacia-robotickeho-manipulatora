@@ -16,3 +16,6 @@ Pre čitateľa, ktorý má málo času, tu je aspoň screenshot z aplikácie:
 
 ![screenshot](screenshotAplikacie.png)
 
+A screenshot modelu dvojčlánkového manipulátora s PID regulítormi v Simulinku:
+
+![screenshot](screenshotSimulink.png)
