@@ -4,9 +4,9 @@ Zaujímavejšie je, že som v Matlabe vytvoril aj interaktívnu aplikáciu, ktor
 
 Tu je [video](videoAnimacieManipulatora.mp4)(7,7 MB), na ukážku ako aplikácia pracuje.
 
-[Skript v Matlabe](riadenieManipulatoraAplikacia.m) (Pre správne fungovanie treba mať v Simulinku otvorenú simuláciu)
+[Skript](riadenieManipulatoraAplikacia.m) v Matlabe (Pre správne fungovanie treba mať v Simulinku otvorenú simuláciu)
 
-[Model manipulátora v Simulinku](zad2_sim.slx).
+[Model](zad2_sim.slx) manipulátora v Simulinku.
 
 Samotné [zadanie](RobZad2.pdf) č. 2 z predmetu Robotika.
 
