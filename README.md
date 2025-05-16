@@ -10,7 +10,7 @@ Tu je [video](videoAnimacieManipulatora.mp4)(7,7 MB), na ukážku ako aplikácia
 
 Samotné [zadanie](RobZad2.pdf) č. 2 z predmetu Robotika.
 
-Moja [dokumentácia](zad2_dokumentacia.pdf).
+Moja [dokumentácia](zad2_dokumentacia.pdf), kde sú moje myšlienkové pochody a proces riešenia podľa mňa celkom pekne zhrnuté.
 
 Pre čitateľa, ktorý má málo času, tu je aspoň screenshot z aplikácie:
 
